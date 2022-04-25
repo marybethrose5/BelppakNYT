@@ -13,8 +13,7 @@
 ** that of glxinfo on Unix systems:
 **
 ** visual ~= pixel format descriptor
-** id       = visual id (integer from 1 - max visuals)
-** tp       = type (wn: window, pb: pbuffer, wp: window & pbuffer, bm: bitmap)
+** id       
 ** ac	    = acceleration (ge: generic, fu: full, no: none)
 ** fm	    = format (i: integer, f: float, c: color index)
 ** db	    = double buffer (y = yes)
@@ -26,7 +25,7 @@
 ** b        = # bits of blue
 ** a        = # bits of alpha
 ** axbf     = # aux buffers
-** dpth     = # bits of depth
+
 ** stcl     = # bits of stencil
 */
 
